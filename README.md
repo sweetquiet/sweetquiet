@@ -2,7 +2,7 @@
 
 Things I love🔭:
 
-- **Robotics**: 
+- **Robotics**
 - **C++ Programming**
 - **Open Source**
 
