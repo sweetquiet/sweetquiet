@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me 😄
+
+Things I love🔭:
+
+- **Robotics**: 
+- **C++ Programming**
+- **Open Source**
 
 <!--
 **sweetquiet/sweetquiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
