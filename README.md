@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ning's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sweetquiet)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Ning's github stats](https://github-readme-stats.vercel.app/api?username=sweetquiet&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
