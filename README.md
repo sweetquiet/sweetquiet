@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 [![Ning's github stats](https://github-readme-stats.vercel.app/api?username=sweetquiet&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="https://github.com/onlytailei/CppRobotics/blob/master/gif/slp.gif" />
+
